@@ -1,0 +1,122 @@
+.c-m-c {
+  width: 100%;
+  height: 100vh;
+  background-color: #ff6767;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.c-s-c {
+  width: 80%;
+  height: 80%;
+  background-color: #ffff;
+  border-radius: 10px;
+  display: flex;
+}
+
+.c-l-s {
+  width: 50%;
+  height: 100%;
+  /* background-color: aqua; */
+  position: relative;
+}
+
+.c-i {
+  position: absolute;
+  bottom: 0px;
+  left: -80px;
+}
+
+.c-r-s {
+  width: 50%;
+  height: 100%;
+  /* background-color: gray; */
+}
+
+.c-c-s {
+  width: 100%;
+  height: 10%;
+  /* background-color: aqua; */
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.c-m-s {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 26px;
+}
+
+.c-c-m-i {
+  width: 100%;
+  height: 70%;
+  /* background-color: green; */
+  display: flex;
+  /* justify-content: center; */
+}
+
+.c-c-b {
+  width: 100%;
+  height: 10%;
+  /* background-color: aqua; */
+}
+
+.c-tbn {
+  width: 100px;
+  height: 50px;
+  background-color: #ff6767;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: white;
+}
+
+.c-tbn:hover {
+  width: 100px;
+  height: 50px;
+  background-color: #ff6767;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  cursor: pointer;
+}
+
+.c-c-m {
+  width: 100%;
+  height: 10%;
+  padding-top: 10px;
+  /* background-color: gold; */
+}
+
+.c-a-m {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 10px;
+}
+
+.c-s-i-m {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 10px;
+  color: #008bd9;
+}
+
+.c-s-i-m:hover {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 10px;
+  color: #008bd9;
+  cursor: pointer;
+  text-decoration: underline;
+}
